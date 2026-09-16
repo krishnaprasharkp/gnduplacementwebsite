@@ -1,0 +1,3 @@
+import {PageHero} from '@/components/site/shared';
+export const metadata={title:'Privacy'};
+export default function Privacy(){return <><PageHero eyebrow="PORTAL INFORMATION" title="Privacy." description="This draft portal awaits an approved university privacy notice."/><section className="wrap section prose divided"><h2>Recruitment enquiries</h2><p>The enquiry service is not connected to a receiving system. Do not submit personal or confidential information until the university confirms its data handling arrangements.</p><p>The final notice must identify the data controller, purpose of collection, retention period, authorised recipients, rights process and official contact. These details have not been supplied.</p></section></>}

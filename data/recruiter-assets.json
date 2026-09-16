@@ -1,0 +1,313 @@
+{
+  "Aakash": {
+    "src": "/images/recruiters/aakash.webp",
+    "sourcePage": "https://www.aakash.ac.in/",
+    "assetUrl": "https://www.aakash.ac.in/images/AakashLogo.webp",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "webp"
+  },
+  "Axtria": {
+    "src": "/images/recruiters/axtria.svg",
+    "sourcePage": "https://www.axtria.com/",
+    "assetUrl": "https://www.axtria.com/hubfs/logo.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Bandhan Bank": {
+    "src": "/images/recruiters/bandhan-bank.png",
+    "sourcePage": "https://bandhanbank.com/",
+    "assetUrl": "https://bandhanbank.com/sites/default/files/2026-08/BBL-logo.png",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "Capgemini": {
+    "src": "/images/recruiters/capgemini.svg",
+    "sourcePage": "https://www.capgemini.com/",
+    "assetUrl": "https://www.capgemini.com/wp-content/themes/capgemini2025/assets/images/capgeminiBlue.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Haldiram’s": {
+    "src": "/images/recruiters/haldiram-s.png",
+    "sourcePage": "https://www.haldirams.com/",
+    "assetUrl": "https://cdn.shopify.com/s/files/1/0691/0948/1549/files/Delhi_Haldiram_Logo_1.webp?v=1774328837",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "Copperpod Intellectual Property": {
+    "src": "/images/recruiters/copperpod-intellectual-property.png",
+    "sourcePage": "https://www.copperpodip.com/",
+    "assetUrl": "https://static.wixstatic.com/media/39641b_9f4a04740555456c9de05963dab11846~mv2.png",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "Berger Paints": {
+    "src": "/images/recruiters/berger-paints.webp",
+    "sourcePage": "https://www.bergerpaints.com/",
+    "assetUrl": "https://images.bergerpaints.com/2026-07/navbigimg.png?VersionId=jbBE.iAnHKpQw5ypzcktJBl6zRtG8MuY&format=webp&width=640&quality=75",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "webp"
+  },
+  "HDFC Life": {
+    "src": "/images/recruiters/hdfc-life.png",
+    "sourcePage": "https://www.hdfclife.com",
+    "assetUrl": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/HDFCLife25Yearslogo-min.png",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "KPMG": {
+    "src": "/images/recruiters/kpmg.svg",
+    "sourcePage": "https://kpmg.com/in/en.html",
+    "assetUrl": "https://kpmg.com/content/experience-fragments/kpmgpublic/in/en/site/header/master/_jcr_content/root/header_v2/logo.coreimg.svg/1784033438102/logo.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "HDFC Bank": {
+    "src": "/images/recruiters/hdfc-bank.svg",
+    "sourcePage": "https://www.hdfcbank.com",
+    "assetUrl": "https://s7ap1.scene7.com/is/content/hdfcbankPWS/hdfc-bank-logo?fmt=webp",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "ICICI Securities": {
+    "src": "/images/recruiters/icici-securities.svg",
+    "sourcePage": "https://www.icicisecurities.com",
+    "assetUrl": "https://www.icicisecurities.com/themes/icicisecurities/images/i-sec-logo.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "JTG": {
+    "src": "/images/recruiters/jtg.svg",
+    "sourcePage": "https://www.joshtechnologygroup.com",
+    "assetUrl": "https://www.joshtechnologygroup.com/wp-content/themes/jtg-marcom/assets/images/logo-full.svg",
+    "needsDarkBackground": true,
+    "caveats": "",
+    "format": "svg"
+  },
+  "ICICI Bank": {
+    "src": "/images/recruiters/icici-bank.svg",
+    "sourcePage": "https://www.icicibank.com",
+    "assetUrl": "https://www.icicibank.com/content/dam/icicibank-revamp/logo-hamb.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Ravenbhel Healthcare": {
+    "src": "/images/recruiters/ravenbhel-healthcare.png",
+    "sourcePage": "https://ravenbhel.com",
+    "assetUrl": "https://ravenbhel.com/wp-content/uploads/2019/12/ravenbhel-healthcare-logo2x.png",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "ITC Limited": {
+    "src": "/images/recruiters/itc-limited.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:ITC_Limited_Logo.svg",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Federal Bank": {
+    "src": "/images/recruiters/federal-bank.svg",
+    "sourcePage": "https://www.federalbank.co.in",
+    "assetUrl": "https://www.federalbank.co.in/o/federal-bank-theme/images/logo.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Khanna": {
+    "src": "/images/recruiters/khanna.svg",
+    "sourcePage": "https://www.khannapaper.com",
+    "assetUrl": "https://www.khannapaper.com/wp-content/uploads/2025/02/Logo-KPM-1.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Axis Bank": {
+    "src": "/images/recruiters/axis-bank.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Axis_Bank_logo.svg",
+    "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Axis_Bank_logo.svg",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Crompton Greaves": {
+    "src": "/images/recruiters/crompton-greaves.svg",
+    "sourcePage": "https://companieslogo.com/cg-power/logo/",
+    "assetUrl": "https://companieslogo.com/img/orig/CGPOWER.NS-0c3af1f8.svg?t=1730122647&download=true",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Amdocs": {
+    "src": "/images/recruiters/amdocs.svg",
+    "sourcePage": "https://companieslogo.com/amdocs/logo/",
+    "assetUrl": "https://companieslogo.com/img/orig/DOX_BIG-fca821f4.svg?t=1742469639&download=true",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Info Edge": {
+    "src": "/images/recruiters/info-edge.png",
+    "sourcePage": "https://companieslogo.com/info-edge/logo/",
+    "assetUrl": "https://companieslogo.com/img/orig/NAUKRI.NS_BIG-47ccaec0.png?t=1720244493&download=true",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "png"
+  },
+  "Amazon": {
+    "src": "/images/recruiters/amazon.svg",
+    "sourcePage": "https://companieslogo.com/amazon/logo/",
+    "assetUrl": "https://companieslogo.com/img/orig/AMZN_BIG-9d14e3da.svg?t=1740113564&download=true",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "Accenture": {
+    "src": "/images/recruiters/accenture.svg",
+    "sourcePage": "https://companieslogo.com/accenture/logo/",
+    "assetUrl": "https://companieslogo.com/img/orig/ACN_BIG-ab8657dd.svg?t=1720244490&download=true",
+    "needsDarkBackground": false,
+    "caveats": "",
+    "format": "svg"
+  },
+  "EPAM": {
+    "src": "/images/recruiters/epam.svg",
+    "sourcePage": "https://logotyp.us/logo/epam/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Fidelity International": {
+    "src": "/images/recruiters/fidelity-international.svg",
+    "sourcePage": "https://careers.fidelityinternational.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "DMart Ready": {
+    "src": "/images/recruiters/dmart-ready.svg",
+    "sourcePage": "https://www.dmart.in/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "ICICI Prudential Life Insurance": {
+    "src": "/images/recruiters/icici-prudential-life-insurance.png",
+    "sourcePage": "https://en.wikipedia.org/wiki/ICICI_Prudential_Life_Insurance",
+    "format": "png",
+    "needsDarkBackground": false
+  },
+  "Jubilant": {
+    "src": "/images/recruiters/jubilant.png",
+    "sourcePage": "https://valoremadvisors.com/jubilant",
+    "format": "png",
+    "needsDarkBackground": false
+  },
+  "Nagarro": {
+    "src": "/images/recruiters/nagarro.svg",
+    "sourcePage": "https://www.nagarro.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Nucleus Software": {
+    "src": "/images/recruiters/nucleus-software.svg",
+    "sourcePage": "https://www.nucleussoftware.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Panacea Biotec": {
+    "src": "/images/recruiters/panacea-biotec.webp",
+    "sourcePage": "https://www.panaceabiotec.com/",
+    "format": "webp",
+    "needsDarkBackground": false
+  },
+  "SAP": {
+    "src": "/images/recruiters/sap.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Deloitte": {
+    "src": "/images/recruiters/deloitte.svg",
+    "sourcePage": "https://www.deloitte.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Stylumia": {
+    "src": "/images/recruiters/stylumia.png",
+    "sourcePage": "https://www.stylumia.ai/",
+    "format": "png",
+    "needsDarkBackground": false
+  },
+  "SBI Mutual Fund": {
+    "src": "/images/recruiters/sbi-mutual-fund.svg",
+    "sourcePage": "https://www.sbimf.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "SRF": {
+    "src": "/images/recruiters/srf.svg",
+    "sourcePage": "https://www.srf.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Tech Mahindra": {
+    "src": "/images/recruiters/tech-mahindra.png",
+    "sourcePage": "https://www.techmahindra.com/",
+    "format": "png",
+    "needsDarkBackground": false
+  },
+  "IOL": {
+    "src": "/images/recruiters/iol.webp",
+    "sourcePage": "https://www.iolcp.com/",
+    "format": "webp",
+    "needsDarkBackground": false
+  },
+  "Bharat Electronics": {
+    "src": "/images/recruiters/bharat-electronics.png",
+    "sourcePage": "https://bel-india.in/",
+    "format": "png",
+    "needsDarkBackground": false
+  },
+  "Wipro": {
+    "src": "/images/recruiters/wipro.svg",
+    "sourcePage": "https://www.wipro.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Zscaler": {
+    "src": "/images/recruiters/zscaler.svg",
+    "sourcePage": "https://www.zscaler.com/",
+    "format": "svg",
+    "needsDarkBackground": false
+  },
+  "Azim Premji Foundation": {
+    "src": "/images/recruiters/azim-premji-foundation.jpg",
+    "sourcePage": "https://azimpremjiuniversity.edu.in/media/resources/Media-Kit-English-18-June-2025.pdf",
+    "format": "jpg",
+    "needsDarkBackground": false
+  },
+  "Tata Consultancy Services": {
+    "src": "/images/recruiters/tcs.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:TCS_Logo_(cropped).jpg",
+    "needsDarkBackground": false
+  },
+  "Nestlé": {
+    "src": "/images/recruiters/nestle.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nestl%C3%A9_textlogo.svg",
+    "needsDarkBackground": false
+  },
+  "Infosys": {
+    "src": "/images/recruiters/infosys.svg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Infosys_logo.svg",
+    "needsDarkBackground": false
+  }
+}

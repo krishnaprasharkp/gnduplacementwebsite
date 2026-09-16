@@ -1,0 +1,6 @@
+import {LeadershipNav} from '@/components/site/leadership-nav';
+import {UniversityRecognition} from '@/components/site/university-recognition';
+import {PageHero,Contact} from '@/components/site/shared';
+import {director} from '@/data/director';
+export const metadata={title:'Director’s Message',description:'A message from the Director, Directorate of Placement and Career Enhancement at Guru Nanak Dev University.'};
+export default function Leadership(){return <><LeadershipNav/><div className="director-heading"><PageHero eyebrow="DIRECTORATE OF PLACEMENT AND CAREER ENHANCEMENT" title="Director’s Message." description="Guru Nanak Dev University, Amritsar"/></div><div className="wrap leadership-recognition"><UniversityRecognition/></div><section className="wrap leadership-features"><article className="leadership-feature director-feature"><div className="leadership-portrait director-portrait"><img src={director.photo} alt={director.name} width={168} height={180}/></div><div className="leadership-message"><h2>{director.name}</h2><p className="leadership-designation">{director.designation}</p><div className="director-message-copy">{director.message.split('\n\n').map((paragraph,i)=><p key={i}>{paragraph}</p>)}</div></div></article></section><Contact/></>}

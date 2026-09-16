@@ -1,0 +1,4 @@
+import {PageHero} from '@/components/site/shared';
+import {UpcomingCards} from '@/components/site/upcoming-cards';
+export const metadata={title:'Upcoming Companies & Student Applications',description:'Upcoming GNDU campus recruitment notices, eligibility criteria and official student application links.'};
+export default function Upcoming(){return <><div className="placement-page-heading"><PageHero eyebrow="2027 BATCH · FOR UNIVERSITY STUDENTS" title="Upcoming jobs & internships." description="Review recruitment opportunities, check eligibility and access official application links."/></div><section className="wrap section"><UpcomingCards/></section><section className="wrap student-guidance"><h2>Before applying</h2><p>Read the complete company notice, confirm your branch and academic eligibility, and submit your application before the stated deadline. Recruitment updates are subject to placement cell instructions.</p></section></>}

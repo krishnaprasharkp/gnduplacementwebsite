@@ -1,0 +1,5 @@
+import {PageHero} from '@/components/site/shared';
+import {LeadershipNav} from '@/components/site/leadership-nav';
+import message from '@/data/vice-chancellor.json';
+export const metadata={title:'Vice-Chancellor’s Message'};
+export default function ViceChancellor(){return <><LeadershipNav/><div className="director-heading"><PageHero eyebrow="UNIVERSITY LEADERSHIP" title="Vice-Chancellor’s Message." description="Education, innovation and professional readiness at Guru Nanak Dev University."/></div><section className="wrap leadership-features"><article className="leadership-feature director-feature vc-feature"><div className="leadership-portrait director-portrait"><img src="/images/vice-chancellor.jpg" alt={message.name} width={1142} height={1600}/></div><div className="leadership-message"><h2>{message.name}</h2><p className="leadership-designation">{message.designation}</p><p className="vc-extract-note">Selected excerpts from the Vice-Chancellor’s message on education, innovation and career readiness.</p><div className="director-message-copy">{message.paragraphs.map((p,i)=><p key={i}>{p}</p>)}</div></div></article></section></>}

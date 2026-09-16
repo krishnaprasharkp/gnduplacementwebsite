@@ -1,0 +1,3 @@
+import {PageHero} from '@/components/site/shared';
+export const metadata={title:'Placement Policy'};
+export default function Policy(){return <><PageHero eyebrow="UNIVERSITY POLICIES" title="Placement policy." description="Recruitment is subject to the official policies of Guru Nanak Dev University."/><section className="wrap section prose divided"><h2>Official policy pending.</h2><p>An approved placement policy and source document will be linked here when supplied. Eligibility, recruitment schedules, selection procedures and offers must be confirmed with the authorised placement team.</p><p>The process described on this portal is an indicative coordination workflow and does not replace university policy.</p></section></>}

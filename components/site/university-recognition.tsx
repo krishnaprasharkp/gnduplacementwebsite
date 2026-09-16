@@ -1,0 +1,1 @@
+export function UniversityRecognition(){return <div className="university-recognition"><p>Established by the State Legislature Act No. 21 of 1969</p><p>Accredited with CGPA of 3.85 on four point scale at “A++” grade (highest level) by NAAC</p><p>Conferred “University with Potential for Excellence” status by UGC</p></div>}

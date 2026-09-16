@@ -1,0 +1,3 @@
+import {previousRecruiters} from '@/data/placements';
+import {RecruiterMark} from './recruiter-mark';
+export function RecruiterMarquee(){const rows=[previousRecruiters.slice(0,15),previousRecruiters.slice(15,30),previousRecruiters.slice(30)];return <div className="recruiter-motion" aria-label="Previous recruiters">{rows.map((row,r)=><div className={'logo-lane '+(r===1?'reverse':'')} key={r}><div className="logo-track"><div className="logo-group">{row.map(logo=><div className="moving-logo" key={logo.name}><RecruiterMark logo={logo}/></div>)}</div><div className="logo-group logo-duplicate" aria-hidden="true">{row.map(logo=><div className="moving-logo" key={logo.name}><RecruiterMark logo={logo}/></div>)}</div></div></div>)}</div>}
