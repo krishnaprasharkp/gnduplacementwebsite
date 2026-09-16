@@ -1,0 +1,9 @@
+{
+  "duration_seconds": 90,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "video_codec": "H.264",
+  "audio_codec": "AAC stereo",
+  "decode_errors": 0,
+  "bytes": 23170058
+}
