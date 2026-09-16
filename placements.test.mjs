@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {applicationState,safeApplicationUrl,upcomingPreviews} from './data/placements.ts';
+const real={...upcomingPreviews[0],placeholder:false,applicationUrl:'https://example.org/apply',deadline:'2030-06-01T17:00:00+05:30'};
+assert.equal(applicationState(real,Date.parse('2030-05-01T00:00:00Z')),'open');
+assert.equal(applicationState(real,Date.parse('2030-07-01T00:00:00Z')),'closed');
+assert.equal(applicationState({...real,deadline:'invalid'}),'pending');
+assert.equal(applicationState({...real,applicationUrl:'javascript:alert(1)',deadline:null}),'pending');
+assert.equal(applicationState({...real,placeholder:true}),'preview');
+assert.equal(safeApplicationUrl('https://example.org/apply'),'https://example.org/apply');
+assert.equal(safeApplicationUrl('http://example.org/apply'),null);
+assert.equal(safeApplicationUrl('//example.org/apply'),null);
+console.log('Application links, preview state and deadline checks passed.');
